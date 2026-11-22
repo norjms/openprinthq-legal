@@ -1,6 +1,6 @@
 # OpenPrintHQ Installer License Agreement
 
-Version 4, 21 November 2026. Draft, to be reviewed by counsel before general release.
+Version 5, 22 November 2026.
 
 This agreement is between you and James Norman, who develops and owns OpenPrintHQ ("we", "us"). It covers
 the OpenPrintHQ installer: the manager container, its screens, its API and its documentation (the
