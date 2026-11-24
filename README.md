@@ -12,4 +12,6 @@ Version 5 is version 4 without the note that it was a draft.
 The OpenPrintHQ hub (`norjms/openprinthq`) and farm (`norjms/openprinthq-farm`) are free software
 under the GNU AGPL-3.0; their own repositories hold their licenses.
 
-Copyright (C) 2026 James Norman. All rights reserved.
+Copyright (C) 2026 James Norman. The files in this repository are licensed under the GNU AGPL-3.0
+(`LICENSE`). That licence covers this repository's text; it does not license the installer, whose terms are
+the agreement itself.
